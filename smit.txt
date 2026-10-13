@@ -1,1 +1,1 @@
-"I am $mit"
+"I am Smit"
